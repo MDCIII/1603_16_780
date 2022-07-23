@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:780()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:10" ;
     skos:prefLabel "Port of Spain"@eng-Latn ;
-    wdata:q7200235 "TT10" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +52,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:20" ;
     skos:prefLabel "San Fernando"@eng-Latn ;
-    wdata:q7200235 "TT20" ;
 .
 
 <urn:mdciii:1603:16:780:1:30>
@@ -63,7 +60,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:30" ;
     skos:prefLabel "Arima"@eng-Latn ;
-    wdata:q7200235 "TT30" ;
 .
 
 <urn:mdciii:1603:16:780:1:31>
@@ -72,7 +68,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:31" ;
     skos:prefLabel "Diego Martin"@eng-Latn ;
-    wdata:q7200235 "TT31" ;
 .
 
 <urn:mdciii:1603:16:780:1:32>
@@ -81,7 +76,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:32" ;
     skos:prefLabel "San Juan-Laventille"@eng-Latn ;
-    wdata:q7200235 "TT32" ;
 .
 
 <urn:mdciii:1603:16:780:1:33>
@@ -90,7 +84,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:33" ;
     skos:prefLabel "Tunapuna/Piarco"@eng-Latn ;
-    wdata:q7200235 "TT33" ;
 .
 
 <urn:mdciii:1603:16:780:1:36>
@@ -99,7 +92,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:36" ;
     skos:prefLabel "Couva-Tabaquite-Talparo"@eng-Latn ;
-    wdata:q7200235 "TT36" ;
 .
 
 <urn:mdciii:1603:16:780:1:40>
@@ -108,7 +100,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:40" ;
     skos:prefLabel "Chaguanas"@eng-Latn ;
-    wdata:q7200235 "TT40" ;
 .
 
 <urn:mdciii:1603:16:780:1:51>
@@ -117,7 +108,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:51" ;
     skos:prefLabel "Mayaro/Rio Claro"@eng-Latn ;
-    wdata:q7200235 "TT51" ;
 .
 
 <urn:mdciii:1603:16:780:1:61>
@@ -126,7 +116,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:61" ;
     skos:prefLabel "Sangre Grande"@eng-Latn ;
-    wdata:q7200235 "TT61" ;
 .
 
 <urn:mdciii:1603:16:780:1:71>
@@ -135,7 +124,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:71" ;
     skos:prefLabel "Princes Town"@eng-Latn ;
-    wdata:q7200235 "TT71" ;
 .
 
 <urn:mdciii:1603:16:780:1:72>
@@ -144,7 +132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:72" ;
     skos:prefLabel "Penal-Debe"@eng-Latn ;
-    wdata:q7200235 "TT72" ;
 .
 
 <urn:mdciii:1603:16:780:1:80>
@@ -153,7 +140,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:80" ;
     skos:prefLabel "Point Fortin"@eng-Latn ;
-    wdata:q7200235 "TT80" ;
 .
 
 <urn:mdciii:1603:16:780:1:81>
@@ -162,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:81" ;
     skos:prefLabel "Siparia"@eng-Latn ;
-    wdata:q7200235 "TT81" ;
 .
 
 <urn:mdciii:1603:16:780:1:90>
@@ -171,6 +156,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:780:1:90" ;
     skos:prefLabel "Tobago"@eng-Latn ;
-    wdata:q7200235 "TT90" ;
 .
 

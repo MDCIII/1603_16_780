@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Port of Spain"@eng-Latn ;
-    wdata:q7200235 "TT10" ;
+    wdata:Q7200235 "TT10" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -59,7 +59,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "San Fernando"@eng-Latn ;
-    wdata:q7200235 "TT20" ;
+    wdata:Q7200235 "TT20" ;
 .
 
 <urn:mdciii:1603:16:780:1:30>
@@ -70,7 +70,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:30" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Arima"@eng-Latn ;
-    wdata:q7200235 "TT30" ;
+    wdata:Q7200235 "TT30" ;
 .
 
 <urn:mdciii:1603:16:780:1:31>
@@ -81,7 +81,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:31" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Diego Martin"@eng-Latn ;
-    wdata:q7200235 "TT31" ;
+    wdata:Q7200235 "TT31" ;
 .
 
 <urn:mdciii:1603:16:780:1:32>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "San Juan-Laventille"@eng-Latn ;
-    wdata:q7200235 "TT32" ;
+    wdata:Q7200235 "TT32" ;
 .
 
 <urn:mdciii:1603:16:780:1:33>
@@ -103,7 +103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:33" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Tunapuna/Piarco"@eng-Latn ;
-    wdata:q7200235 "TT33" ;
+    wdata:Q7200235 "TT33" ;
 .
 
 <urn:mdciii:1603:16:780:1:36>
@@ -114,7 +114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:36" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Couva-Tabaquite-Talparo"@eng-Latn ;
-    wdata:q7200235 "TT36" ;
+    wdata:Q7200235 "TT36" ;
 .
 
 <urn:mdciii:1603:16:780:1:40>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:40" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Chaguanas"@eng-Latn ;
-    wdata:q7200235 "TT40" ;
+    wdata:Q7200235 "TT40" ;
 .
 
 <urn:mdciii:1603:16:780:1:51>
@@ -136,7 +136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:51" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Mayaro/Rio Claro"@eng-Latn ;
-    wdata:q7200235 "TT51" ;
+    wdata:Q7200235 "TT51" ;
 .
 
 <urn:mdciii:1603:16:780:1:61>
@@ -147,7 +147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:61" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Sangre Grande"@eng-Latn ;
-    wdata:q7200235 "TT61" ;
+    wdata:Q7200235 "TT61" ;
 .
 
 <urn:mdciii:1603:16:780:1:71>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:71" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Princes Town"@eng-Latn ;
-    wdata:q7200235 "TT71" ;
+    wdata:Q7200235 "TT71" ;
 .
 
 <urn:mdciii:1603:16:780:1:72>
@@ -169,7 +169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:72" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Penal-Debe"@eng-Latn ;
-    wdata:q7200235 "TT72" ;
+    wdata:Q7200235 "TT72" ;
 .
 
 <urn:mdciii:1603:16:780:1:80>
@@ -180,7 +180,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:80" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Point Fortin"@eng-Latn ;
-    wdata:q7200235 "TT80" ;
+    wdata:Q7200235 "TT80" ;
 .
 
 <urn:mdciii:1603:16:780:1:81>
@@ -191,7 +191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:81" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Siparia"@eng-Latn ;
-    wdata:q7200235 "TT81" ;
+    wdata:Q7200235 "TT81" ;
 .
 
 <urn:mdciii:1603:16:780:1:90>
@@ -202,6 +202,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:780:1:90" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:780:0> ;
     skos:prefLabel "Tobago"@eng-Latn ;
-    wdata:q7200235 "TT90" ;
+    wdata:Q7200235 "TT90" ;
 .
 
